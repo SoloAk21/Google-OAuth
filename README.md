@@ -89,20 +89,6 @@ This project implements a **Google OAuth authentication system** using **MERN st
 | `/api/auth/google` | POST | Authenticate user using Google OAuth |
 | `/api/auth/google/callback` | GET | Google OAuth callback route |
 
-## 🎨 UI Preview
-| Login Page | Dashboard |
-|------------|-----------|
-| ![Login Page](https://via.placeholder.com/300) | ![Dashboard](https://via.placeholder.com/300) |
-
-## 🤝 Contributing
-1. Fork the repository
-2. Create a new branch (`feature-branch`)
-3. Commit your changes
-4. Push to your fork
-5. Create a pull request
-
-## 📜 License
-This project is **MIT Licensed**.
 
 ---
 
