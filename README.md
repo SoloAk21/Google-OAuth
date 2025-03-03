@@ -1,10 +1,5 @@
 # 🚀 Google OAuth Authentication System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/yourrepo?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=for-the-badge)
-
 ## 🌟 Overview
 This project implements a **Google OAuth authentication system** using **MERN stack** (MongoDB, Express, React, Node.js) and **Passport.js**. Users can authenticate with their Google accounts, and their details will be stored in MongoDB.
 
