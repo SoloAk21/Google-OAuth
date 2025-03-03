@@ -1,4 +1,4 @@
-# 🚀 Google OAuth Authentication System
+# 🚀 Google OAuth Login
 
 ## 🌟 Overview
 This project implements a **Google OAuth authentication system** using **MERN stack** (MongoDB, Express, React, Node.js) and **Passport.js**. Users can authenticate with their Google accounts, and their details will be stored in MongoDB.
