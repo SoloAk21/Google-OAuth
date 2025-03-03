@@ -48,7 +48,7 @@ This project implements a **Google OAuth authentication system** using **MERN st
 ## 🔧 Configuration
 1. Clone the repository:
 ```bash
- git clone https://github.com/yourusername/yourrepo.git
+ git clone https://github.com/SoloAk21/Google-OAuth.git
 ```
 
 2. Install dependencies:
@@ -106,5 +106,5 @@ This project is **MIT Licensed**.
 
 ---
 
-💡 **Developed with ❤️ by [Your Name](https://github.com/yourusername)**
+💡 **Developed with ❤️ by [SoloAk](https://github.com/SoloAk21)**
 
